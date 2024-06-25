@@ -40,4 +40,4 @@ bash ./scripts/run_reproduce_48.sh
 ```
 
 ### Simple workflow example
-We make simple inynb workflow at 'train_predict.ipynb'
+We make simple workflow at 'train_predict.ipynb'
